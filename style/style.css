@@ -1,0 +1,10 @@
+.store{
+    width: 1600px;
+    height: 450px;
+    background-color: bisque;
+}
+.cart{
+    width: 1600px;
+    height: 450px;
+    background-color: rgb(217, 179, 251);
+}
